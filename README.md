@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Full-Stack Web Projects**<br>- 🌱 I’m learning **Advanced React, Backend APIs & System Design basics**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br>- 🎯 Goal: Crack a **Web Developer role** in a reputed IT company<br>- ⚡ Fun fact: I love turning ideas into real web products<br>
+ - 🔭 I’m currently working on **Full-Stack Web Projects**<br>- 🌱 I’m learning **Advanced React, Backend APIs & System Design basics**<br>- 💬 Ask me about **HTML, CSS, JavaScript, React**<br>- 🎯 Goal: Crack a **Web Developer role** in a reputed IT company<br>- ⚡ Fun fact: I love turning ideas into real web products<br>
 
 
 ## 🌐 Socials:
@@ -16,10 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=renuka-deshmukh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 📊 GitHub Stats
-![Renuka's GitHub stats](https://github-readme-stats.vercel.app/api?username=renuka-deshmukh&show_icons=true)
 
-
----
 [![](https://visitcount.itsvg.in/api?id=renuka-deshmukh&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
