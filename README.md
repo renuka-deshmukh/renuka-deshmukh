@@ -30,46 +30,62 @@ real-time progress tracking, and role-based collaboration.
   <li>⚙️ RESTful APIs with <b>Node.js, Express & MongoDB</b></li>
 </ul>
 
-<p>
-🔗 <b>Repository:</b> 
-<a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Redux_MemberPanel" target="_blank">
-Project Management System User
-</a>
- <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Admin" target="_blank">
-Project Management System Admin
-</a>
-  <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Server" target="_blank">
-Project Management System Server
-</a>
-<br/>
-🌐 <b>Live Demo:</b> 
-<a href="https://task-management-using-mern-redux-me.vercel.app/" target="_blank">
-View Live User
-</a>
-<a href=" https://task-management-using-mern-admin.vercel.app/" target="_blank">
-View Live Admin
-</a>
-</p>
+<p><b>🔗 Repositories:</b></p>
+<ul>
+  <li>
+    <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Redux_MemberPanel" target="_blank">
+      User Panel
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Admin" target="_blank">
+      Admin Panel
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Server" target="_blank">
+      Backend Server
+    </a>
+  </li>
+</ul>
+
+<p><b>🌐 Live Demos:</b></p>
+<ul>
+  <li>
+    <a href="https://task-management-using-mern-redux-me.vercel.app/" target="_blank">
+      User Application
+    </a>
+  </li>
+  <li>
+    <a href="https://task-management-using-mern-admin.vercel.app/" target="_blank">
+      Admin Dashboard
+    </a>
+  </li>
+</ul>
 
 <hr/>
 
-<h3>🛒 E-Commerce </h3>
+<h3>🛒 E-Commerce Application</h3>
 
 <ul>
-  <li>📦 Product, user & order management dashboard</li>
+  <li>📦 Product, user & order management system</li>
   <li>📱 Fully responsive UI using modern <b>React</b></li>
   <li>🔄 Real-time data handling via backend APIs</li>
 </ul>
 
-<p>
-🔗 <b>Repository:</b> 
-<a href="https://github.com/renuka-deshmukh/E-Commerce-Admin-Panel" target="_blank">
-E-Commerce Admin Panel
-</a>
- <a href="https://github.com/renuka-deshmukh/E-Commerce-User" target="_blank">
-E-Commerce User Panel
-</a>
-</p>
+<p><b>🔗 Repositories:</b></p>
+<ul>
+  <li>
+    <a href="https://github.com/renuka-deshmukh/E-Commerce-Admin-Panel" target="_blank">
+      Admin Panel
+    </a>
+  </li>
+  <li>
+    <a href="https://github.com/renuka-deshmukh/E-Commerce-User" target="_blank">
+      User Panel
+    </a>
+  </li>
+</ul>
 
 <hr/>
 
@@ -82,11 +98,12 @@ E-Commerce User Panel
 </ul>
 
 <p>
-🔗 <b>Repository:</b> 
+<b>🔗 Repository:</b>
 <a href="https://github.com/renuka-deshmukh/E-Commerce-Server" target="_blank">
 E-Commerce Backend Server
 </a>
 </p>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
