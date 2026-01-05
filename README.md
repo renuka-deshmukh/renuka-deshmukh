@@ -12,11 +12,81 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=renuka-deshmukh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=renuka-deshmukh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=renuka-deshmukh&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<h2 align="center">🚀 Featured Projects</h2>
 
-### 📊 GitHub Stats
+<hr/>
 
-[![](https://visitcount.itsvg.in/api?id=renuka-deshmukh&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3>🗂️ Project Management System (MERN) <sup><b>⭐ Major Project</b></sup></h3>
+
+<p>
+A full-stack <b>MERN Project Management System</b> designed for efficient task planning,
+real-time progress tracking, and role-based collaboration.
+</p>
+
+<ul>
+  <li>🔐 Secure authentication using <b>JWT</b></li>
+  <li>👥 Role-based access control (<b>Admin / User</b>)</li>
+  <li>📊 Interactive dashboards built with <b>React & Recharts</b></li>
+  <li>⚙️ RESTful APIs with <b>Node.js, Express & MongoDB</b></li>
+</ul>
+
+<p>
+🔗 <b>Repository:</b> 
+<a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Redux_MemberPanel" target="_blank">
+Project Management System User
+</a>
+ <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Admin" target="_blank">
+Project Management System Admin
+</a>
+  <a href="https://github.com/renuka-deshmukh/TaskManagement_Using_MERN_Server" target="_blank">
+Project Management System Server
+</a>
+<br/>
+🌐 <b>Live Demo:</b> 
+<a href="https://task-management-using-mern-redux-me.vercel.app/" target="_blank">
+View Live User
+</a>
+<a href=" https://task-management-using-mern-admin.vercel.app/" target="_blank">
+View Live Admin
+</a>
+</p>
+
+<hr/>
+
+<h3>🛒 E-Commerce </h3>
+
+<ul>
+  <li>📦 Product, user & order management dashboard</li>
+  <li>📱 Fully responsive UI using modern <b>React</b></li>
+  <li>🔄 Real-time data handling via backend APIs</li>
+</ul>
+
+<p>
+🔗 <b>Repository:</b> 
+<a href="https://github.com/renuka-deshmukh/E-Commerce-Admin-Panel" target="_blank">
+E-Commerce Admin Panel
+</a>
+ <a href="https://github.com/renuka-deshmukh/E-Commerce-User" target="_blank">
+E-Commerce User Panel
+</a>
+</p>
+
+<hr/>
+
+<h3>⚙️ E-Commerce Backend Server</h3>
+
+<ul>
+  <li>🚀 Scalable backend using <b>Node.js & Express</b></li>
+  <li>🔐 Secure APIs with authentication & authorization</li>
+  <li>🗄️ Optimized <b>SQL schema design</b> and validation</li>
+</ul>
+
+<p>
+🔗 <b>Repository:</b> 
+<a href="https://github.com/renuka-deshmukh/E-Commerce-Server" target="_blank">
+E-Commerce Backend Server
+</a>
+</p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
